@@ -16,7 +16,7 @@ spec:
 
   source:
 
-    repoURL: https://github.com/theharish05/ArgoCD-OutOfSync
+    repoURL: <repo-url>
 
     targetRevision: main
 
